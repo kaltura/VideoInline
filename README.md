@@ -10,7 +10,7 @@ This demo shows inline video playback on iPhone devices. The following features 
 * Custom controls
 
 ## Demo
-Use [this link](http://amirch1.github.io/VideoInline/) on your iPhone to view the demo.
+Use [this link](http://kaltura.github.io/VideoInline/) on your iPhone to view the demo.
 
 ## Usage
 1. Include the Javascript and CSS files from the project in your HTML file
