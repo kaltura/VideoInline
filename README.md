@@ -18,5 +18,7 @@ Use [this link](http://kaltura.github.io/VideoInline/) on your iPhone to view th
 3. Add the "webkit-playsinline" attribute to your video tag
  
 
-##License
-The code is distributed under the MIT License (MIT). You can use and change it freely as long as you include the copyright notice.
+## License and Copyright Information
+All code in this project is released under the [AGPLv3 license](http://www.gnu.org/licenses/agpl-3.0.html) unless a different license for a particular library is specified in the applicable library path. 
+
+Copyright © Kaltura Inc. All rights reserved.
